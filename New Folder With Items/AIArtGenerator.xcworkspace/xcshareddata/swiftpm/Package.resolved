@@ -1,0 +1,24 @@
+{
+  "originHash" : "85440b7a250f4341a9197a3c0b795b0400bdf562f0231da8c75b550ecb68fcc5",
+  "pins" : [
+    {
+      "identity" : "backgroundremoval",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Ezaldeen99/BackgroundRemoval.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3f3da746509cdfeefb837d35ba5ba620cd53bcfe"
+      }
+    },
+    {
+      "identity" : "replicate-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/replicate/replicate-swift",
+      "state" : {
+        "revision" : "1893a954246eb9d8c281c8d0fdb6021adb93a1cd",
+        "version" : "0.21.0"
+      }
+    }
+  ],
+  "version" : 3
+}
